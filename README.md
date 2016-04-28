@@ -1,7 +1,7 @@
 mq135_74hc595_7seg.ino
 ====
 
-![img01.png](img01.png)
+![img01.jpg](img01.jpg)
 
 Copyright and license
 ----
